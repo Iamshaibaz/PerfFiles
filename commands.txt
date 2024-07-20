@@ -1,0 +1,2 @@
+jmeter -n -t test_plan.jmx -l results.jtl
+jmeter -g results.jtl -o report
